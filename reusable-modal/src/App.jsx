@@ -58,7 +58,7 @@ function App() {
       </div>
 
 
-      {/* Profile Modal */}
+     
 
       {showProfile && (
         <Modal
@@ -80,7 +80,7 @@ function App() {
       )}
 
 
-      {/* Delete Modal */}
+      
 
       {showDelete && (
         <Modal
@@ -112,7 +112,7 @@ function App() {
       )}
 
 
-      {/* Login Modal */}
+   
 
       {showLogin && (
         <Modal
